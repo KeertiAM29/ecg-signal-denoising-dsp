@@ -46,7 +46,7 @@ A hybrid DSP-based denoising pipeline was implemented:
 
 ## System Pipeline
 
-![Pipeline](flow diagram.png)
+![Pipeline](flowdiagram.png)
 
 ---
 
